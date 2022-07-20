@@ -24,6 +24,5 @@ echo "<-----Boto3 was installed----->"
 echo "<-----Installing Jupyter notebook----->"
 sudo pip3 install jupyter notebook
 echo "<-----Jupyter notebook was installed----->"
-echo "<----- ALL PACKEGES WAS
-INSTALLED! HAVE FUN!----->"
+echo "<----- ALL PACKEGES WAS INSTALLED! HAVE FUN!----->"
 read -p "Press [Enter] key to continue..."
